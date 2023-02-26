@@ -1,0 +1,10 @@
+body {
+    margin: 0%;
+    overflow: hidden;
+}
+
+canvas {
+    background-image: url(https://funilrys.com/user/pages/programming/javascript/javascript.png);
+    background-position: center;
+    background-size: cover;
+}
